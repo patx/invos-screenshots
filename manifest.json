@@ -17,6 +17,6 @@
   "start_url": "https://demo.vegy.app/",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "theme_color": "green",
-  "background_color": "white"
+  "theme_color": "#f8f9fa",
+  "background_color": "#f8f9fa"
 }
