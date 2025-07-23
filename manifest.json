@@ -1,0 +1,22 @@
+{
+  "short_name": "Vegy",
+  "name": "Fresh Produce LLC Online Ordering",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/patx/invos-screenshots/refs/heads/main/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/patx/invos-screenshots/refs/heads/main/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["productivity"],
+  "start_url": "https://demo.vegy.app/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "green",
+  "background_color": "white"
+}
